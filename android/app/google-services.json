@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1073012017448",
+    "project_id": "fitness-app-b48d6",
+    "storage_bucket": "fitness-app-b48d6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1073012017448:android:3ea6d947164be3a6fd681d",
+        "android_client_info": {
+          "package_name": "com.oduskey.fitness_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1073012017448-13cpftu7it9n7g07qg7p5m5me7gsql9q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEbMhqzQqsAq6u1dUFOlPmq6XnEds7prY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1073012017448-13cpftu7it9n7g07qg7p5m5me7gsql9q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
